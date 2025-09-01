@@ -14,7 +14,7 @@
   "dependencies": {
     "@iconify-json/heroicons": "^1.2.1",
     "@kgierke/nuxt-basic-auth": "^1.6.0",
-    "@nuxt/eslint": "^0.6.0",
+    "@nuxt/eslint": "^0.7.6",
     "@nuxt/ui": "^3.0.0",
     "@nuxthub/core": "^0.7.31",
     "nuxt": "^3.13.2",
