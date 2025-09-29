@@ -20,7 +20,7 @@
     "nuxt": "^3.19.1",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5",
-    "zod": "^3.23.8"
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.6.0",
